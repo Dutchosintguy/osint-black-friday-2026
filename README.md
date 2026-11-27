@@ -4,7 +4,7 @@ A curated list of **vendor-verified** deals for OSINT practitioners: investigati
 
 Curated by [Dutch OSINT Guy](https://dutchosintguy.com/blog) ([@dutch_osintguy](https://x.com/dutch_osintguy)). Every offer below was checked on the vendor’s own page or official account. There are **no affiliate links**. Prices, codes and end dates are taken from those official sources; any sale price calculated from a list price is marked **computed**. Always confirm the final amount and the renewal price at checkout.
 
-**Last updated:** 27 November 2026, 09:10 Europe/Amsterdam (CET) — added ExpressVPN.
+**Last updated:** 27 November 2026, 19:05 Europe/Amsterdam (CET) — added Ciberpatrulla and SimplySim.
 
 **Calendar:** Black Friday is Friday 27 November 2026. Cyber Monday is Monday 30 November 2026.
 
@@ -105,6 +105,7 @@ Curated by [Dutch OSINT Guy](https://dutchosintguy.com/blog) ([@dutch_osintguy](
 | [Antisyphon Training](https://learning.antisyphontraining.com/pages/black-friday-sale-2026) | One-year On-Demand subscription for **$1,500** (40+ courses plus the Antisyphon CyberRange). Buy by 31 Dec → **60% off** a virtual ticket to Wild West Hackin’ Fest Mile High (17–19 Feb 2027). Regular subscription price is not stated on the page, so the size of the subscription saving is unverified | — | **31 Dec 2026** (WWHF ticket bonus) | Recon, SOC, threat hunting and AI catalogue, plus cheap conference content |
 | [Ham Radio Prep](https://hamradioprep.com/) | Technician, General and Extra + free Ham Radio Basics Course for **$79 ($199)**. The brand also says “save up to 70%” on courses and bundles | — | Not stated | RF, propagation and antenna fundamentals that support SDR and signals-adjacent OSINT. These courses prepare for US FCC exams, not a Dutch licence |
 | [Hack The Box](https://x.com/hackthebox_eu/status/2125606705954177495) | Not a paid discount: **over 50 Tier 0 Academy modules are free**, and new accounts get **200 Cubes**. The vendor’s `/black-friday` URL was 404 at the last check | — | No end stated for the free Tier 0 offer | Free Academy foundations for the team |
+| [Ciberpatrulla — OSINT Revolution (ES)](https://ciberpatrulla.com/puerta-abierta/) | Spanish-language OSINT method course. Black Friday enrolment window: **€39/month**, locked for as long as you stay, no annual commitment. After the window new members can only join on the **€487/year** plan. This is a price lock, not a percentage discount | — | **30 Nov 2026, 23:59 Madrid (CET)** | Method course from tasking to an explainable report, with monthly live sessions |
 
 ## Books
 
@@ -145,6 +146,7 @@ Curated by [Dutch OSINT Guy](https://dutchosintguy.com/blog) ([@dutch_osintguy](
 | [Orange Travel eSIM](https://travel.orange.com/en) | “Black Friday: up to 80%” — 35+ destinations on sale; sale prices are applied on destination plan pages. Unused eSIMs are fully refundable per the vendor | Auto | **30 Nov 2026** | Prepaid travel eSIM from a major carrier — a separate data line for field or burner devices |
 | [Airhub eSIM](https://www.airhubapp.com/) | **5% off** travel eSIM. Confirmation is from the official X account; no usable Black Friday landing page was returned at the last site check | `BLACKFRIDAY26` | Not stated on the official posts | A smaller cut than Airalo or Orange unless you already use Airhub |
 | [NodeMaven proxies](https://nodemaven.com/black-friday/) | Code `BF26` to get **2x ISP proxies** (select 5+ proxies; first ISP order). Black Friday lottery: buy residential, mobile or ISP proxies **13–30 Nov** for tickets (1 ticket per $30 spent; 20 prizes). Custom plans excluded | `BF26` (ISP 2x) | Lottery **30 Nov 2026**; `BF26` end not stated | Residential, mobile and static ISP proxies for geo-local collection and stable sock-puppet identities — use within platform terms and your legal framework |
+| [SimplySim — Black Friday eSIM](https://simplysim.co.uk/) | **15% off any eSIM**, any plan and destination | `BLACK15` | **29 Nov 2026, 23:59 UK time** | Data-only travel eSIM for field work or to keep research devices apart from your own number (check the provider's ID rules) |
 
 ## Hardware
 
